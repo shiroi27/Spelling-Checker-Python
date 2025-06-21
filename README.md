@@ -22,13 +22,16 @@ A sleek and simple Spelling Correction App built using Python, Tkinter, and Text
 ⸻
 
 📦 How to Run
-	1.	Clone the repository
+
+1. Clone the repository
+   
 ```bash
 git clone https://github.com/shiroi27/Spelling-Checker-Python.git
 cd Spelling-Checker-Python
 ```
 
-	2.	Run the App
+2.Run the App
+
 ```bash
 python spelling_checker.py
 ```
